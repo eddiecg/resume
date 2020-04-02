@@ -1,2 +1,2 @@
 # resume
-Eddie Cano-Gamez's resumé
+A copy of my most recent resumé
